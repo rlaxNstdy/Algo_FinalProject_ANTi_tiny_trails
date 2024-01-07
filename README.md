@@ -6,7 +6,7 @@ NIM : 2702296672
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Documentation](#documentation)
-3. [The Game ](#the_game)
+3. [The Game ](#game)
 
 ## Introduction
 This project was made using Python programming language. Purpose of this project is how understanding some of the game can be played or controlled by using visual gesture of your hand and this project is achieved by implementing OpenCV or cv2 (Open-Source Computer Vision) and mediapipe.
@@ -17,7 +17,7 @@ To better understand and interact with the project, refer to the following resou
 - [PDF Report]
 - [Video Demo]
 
-## The Game 
+## Game 
 
 ![main page game](https://github.com/rlaxNstdy/Algo_FinalProject_ANTi_tiny_trails/assets/144894046/0d54cba9-7909-4fff-959d-9259ab8c56c0)
 
