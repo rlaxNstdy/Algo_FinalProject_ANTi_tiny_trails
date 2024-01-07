@@ -14,8 +14,8 @@ This project was made using Python programming language. Purpose of this project
 ## Documentation
 To better understand and interact with the project, refer to the following resources:
 
-- [PDF Report]
-- [Video Demo]
+- [PDF Report] : https://docs.google.com/document/d/1LvDkz-jeKYt_7R25A7HviqM54r0YCz4V/edit?usp=sharing&ouid=100146609500272920258&rtpof=true&sd=true
+- [Video Demo] :
 
 ## Game 
 
